@@ -215,8 +215,7 @@ Any improvements related to explanations, notebooks, or examples are greatly app
 
 You can find the slides used for this lecture here:
 
-https://www.canva.com/design/DAHDiLcTHd0/hmWEoiKhBvm836Ij6C1FKQ/edit?utm_content=DAHDiLcTHd0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
----
+https://drive.google.com/file/d/1ymAANfUbr8HbG8RX8aGn5GSyM26I-0VW/view?usp=drivesdk---
 
 # 📩 Contact
 
