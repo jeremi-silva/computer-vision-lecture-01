@@ -12,7 +12,7 @@ It is part of a **Computer Vision learning series**, designed to help students u
 ---
 
 # 🚀 Quick Start
-
+``` 
 Clone the repository and run the notebook:
     git clone https://github.com/jeremi-silva/computer-vision-lecture-01.git
     cd computer-vision-lecture-01
@@ -24,7 +24,7 @@ Then open:
 
 and execute the cells using:
     Shift + Enter
-
+``` 
 ---
 
 # 📚 Topics Covered
@@ -89,23 +89,23 @@ This visualization helps illustrate how each color channel contributes to the fi
 ## 1. Install Python
 
 Make sure you have **Python 3.8 or higher** installed.
-
+``` 
 You can download it here:
 
 https://www.python.org/downloads/
 
 Verify installation:
     python --version
-
+``` 
 ---
 
 ## 2. Install dependencies
 
 This project includes a `requirements.txt` file containing all necessary libraries.
-
+``` 
 Install them with:
     pip install -r requirements.txt
-
+``` 
 The main libraries used in this project are:
 
 - **OpenCV** – Computer vision processing
@@ -118,33 +118,33 @@ The main libraries used in this project are:
 # 🚀 Running the Project
 
 ## Step 1 — Start Jupyter Notebook
-
+``` 
 From the root directory of the project run:
     jupyter notebook    
-
+``` 
 This will open the **Jupyter interface in your browser**.
 
 ---
 
 ## Step 2 — Open the notebook
-
+``` 
 Navigate to the folder:
     notebook/
 
 Then open:
     lecture_1.ipynb
-
+``` 
 ---
 
 ## Step 3 — Run the notebook
-
+``` 
 Execute each code cell sequentially using:
     Shift + Enter
 
 This will run the code and display the results step by step.
-
+``` 
 ---
-
+``` 
 # 📂 Project Structure
 computer-vision-lecture-01/
 │
@@ -159,7 +159,7 @@ computer-vision-lecture-01/
 ├── requirements.txt # Python dependencies
 │
 └── README.md # Project documentation
-
+``` 
 ---
 
 # 🛠 Technologies Used
