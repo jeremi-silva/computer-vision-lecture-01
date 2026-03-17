@@ -1,4 +1,4 @@
-# 📸 Computer Vision – Lecture 1: Digital Image Fundamentals
+# Computer Vision – Lecture 1: Digital Image Fundamentals
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue)
 ![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-green)
@@ -10,8 +10,12 @@ This project demonstrates the **mathematical and computational representation of
 It is part of a **Computer Vision learning series**, designed to help students understand how images are represented and manipulated programmatically in Python.
 
 ---
+## Demo
 
-# 🚀 Quick Start
+Quick overview of how to navigate the repository:
+
+![Demo](outputs/demo.gif)
+# Quick Start
 ``` 
 Clone the repository and run the notebook:
     git clone https://github.com/jeremi-silva/computer-vision-lecture-01.git
@@ -27,7 +31,7 @@ and execute the cells using:
 ``` 
 ---
 
-# 📚 Topics Covered
+# Topics Covered
 
 This lecture introduces the **fundamental concepts behind digital images in Computer Vision**.
 
@@ -59,7 +63,7 @@ Topics explored in this project include:
 
 ---
 
-# 🧠 What You Will Learn
+# What You Will Learn
 
 After completing this lecture you will understand:
 
@@ -74,7 +78,7 @@ These concepts are essential before moving on to more advanced topics in **Compu
 
 ---
 
-# 🖼 Example Result
+# Example Result
 
 The following figure shows an example of **channel splitting**, where the original image is compared with its individual **Red, Green, and Blue channels**.
 
@@ -84,7 +88,7 @@ This visualization helps illustrate how each color channel contributes to the fi
 
 ---
 
-# ⚙️ Installation
+# Installation
 
 ## 1. Install Python
 
@@ -115,7 +119,7 @@ The main libraries used in this project are:
 
 ---
 
-# 🚀 Running the Project
+# Running the Project
 
 ## Step 1 — Start Jupyter Notebook
 ``` 
@@ -145,7 +149,7 @@ This will run the code and display the results step by step.
 ``` 
 ---
 ``` 
-# 📂 Project Structure
+# Project Structure
 computer-vision-lecture-01/
 │
 ├── notebook/ # Jupyter notebooks for the lecture
@@ -162,7 +166,7 @@ computer-vision-lecture-01/
 ``` 
 ---
 
-# 🛠 Technologies Used
+# Technologies Used
 
 This project uses the following tools and libraries:
 
@@ -174,7 +178,7 @@ This project uses the following tools and libraries:
 
 ---
 
-# 🎓 Educational Purpose
+# Educational Purpose
 
 This repository is part of a **Computer Vision learning series** aimed at helping students understand the **fundamental structure of digital images** before moving to more advanced topics such as:
 
@@ -185,7 +189,7 @@ This repository is part of a **Computer Vision learning series** aimed at helpin
 
 ---
 
-# 🔮 Future Lectures
+# Future Lectures
 
 Upcoming lectures in this series may include:
 
@@ -197,7 +201,7 @@ Upcoming lectures in this series may include:
 
 ---
 
-# 🤝 Contributing
+# Contributing
 
 Contributions are welcome!
 
@@ -211,13 +215,13 @@ Any improvements related to explanations, notebooks, or examples are greatly app
 
 ---
 
-# 🎥 Presentation Slides
+# Presentation Slides
 
 You can find the slides used for this lecture here:
 
 https://drive.google.com/file/d/1ymAANfUbr8HbG8RX8aGn5GSyM26I-0VW/view?usp=drivesdk---
 
-# 📩 Contact
+# Contact
 
 This lecture was developed as part of the **AIROS – ESPOL Robotics & AI Club**.
 
