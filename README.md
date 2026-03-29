@@ -219,8 +219,7 @@ Any improvements related to explanations, notebooks, or examples are greatly app
 
 You can find the slides used for this lecture here:
 
-https://drive.google.com/file/d/1ymAANfUbr8HbG8RX8aGn5GSyM26I-0VW/view?usp=drivesdk---
-
+https://docs.google.com/presentation/d/1hYHRWLe4-JVLhBgEVfDbxalNqUu_vsean_6mPCCra-4/edit?usp=sharing
 # Contact
 
 This lecture was developed as part of the **AIROS – ESPOL Robotics & AI Club**.
